@@ -29,12 +29,8 @@ Edit **config.py** with your own values
 
 # Run Directly
 ```sh
-$ python3 -m spr
-```
-
-# Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/atrindokhtaram/SpamProtectionRobot/)
+$ python3 -m
+](https://heroku.com/deploy?template=https://github.com/atrindokhtaram/SpamProtectionRobot/)
 
 # Docker
 
